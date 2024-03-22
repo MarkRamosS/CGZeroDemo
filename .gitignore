@@ -1,0 +1,4 @@
+*.exe
+.ipynb_checkpoints
+*.w32
+*.h5
